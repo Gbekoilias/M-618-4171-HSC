@@ -143,8 +143,19 @@ This is an individual assignment—no external contributions are expected. If ad
 
 ## 📜 License & Acknowledgements
 License: MIT © 2025
+## Deliverables
+1. Research Proposal
+   - Filled-in proposal template ```(.docx)```
 
-Acknowledgements:
+2. Final Report (3 500 words)
+   - Complete written report with Introduction, Literature Review, Methodology, Findings & Conclusion ```(.docx)```
+
+3. Presentation
+   - PowerPoint slides with accompanying speaker notes (```.pptx``` + ```.docx```)
+You’ll also bundle any supporting appendices (ethics approval, data-collection instruments, raw-data extracts) in an ```/Appendices``` folder, but the core files you submit are those three.
+
+
+## Acknowledgements:
 - ATHE Level 3 HSC Unit 5 Brief
 - Aveyard H. (2014), Doing a Literature Review in Health & Social Care
 - ESRC (2002), Research Ethics Framework
