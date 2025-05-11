@@ -1,6 +1,4 @@
-# M-618-4171-HSC-Research-Project
-
-**ATHE Level 3 Diploma in Health & Social Care – Unit 5: Research in HSC**
+## ATHE Level 3 Diploma in Health & Social Care – Unit 5: Research in HSC
 
 ---
 
